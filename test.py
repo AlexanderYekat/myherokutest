@@ -1,5 +1,5 @@
 #!/usr/bin/env python
 print("Content-type: text/html")
 print()
-print("<h1>KKKKlo word!</h1>")
+print("<h1>WWWWlo word!</h1>")
 
