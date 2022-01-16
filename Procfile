@@ -1,1 +1,1 @@
-web: python cgi-bin/test.py $PORT
+web: python test2.py $PORT

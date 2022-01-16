@@ -12,4 +12,4 @@ if __name__ == "__main__":
 	app = web.application(urls, globals())
 	app.run()
 
-render = web.template.render('../templates/')
+render = web.template.render('templates/')
